@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Interleave {
+public class InterleaveOdd {
 
     /**
      * Function to interleave the two halves of a queue, handling both even and odd lengths.
